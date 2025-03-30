@@ -1,0 +1,21 @@
+[
+ {
+  "directory": "C:\\Users\\gbrlf\\Projetos\\Raylib\\snake",
+  "arguments": [
+   "g++",
+   "main.cpp",
+   "-o",
+   "game.exe",
+   "-O1",
+   "-Wall",
+   "-Wno-missing-braces",
+   "-Iinclude/",
+   "-Llib/",
+   "-lraylib",
+   "-lopengl32",
+   "-lgdi32",
+   "-lwinmm"
+  ],
+  "file": "main.cpp"
+ }
+]
